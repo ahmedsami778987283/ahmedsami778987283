@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src= "https://share.google/7wJ1nDbN5yh7P4ovM" alt="Cybersecurity Banner">
+  <img width="100%" src= "360_F_945420050_iKJoSRvgv5sVT3WHXUVcf01bLQcDTxG3.jpg" alt="Cybersecurity Banner">
 </div>
 
 # Hi there, I'm Ahmed Sami 👋
