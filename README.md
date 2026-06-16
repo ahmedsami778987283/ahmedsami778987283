@@ -1,22 +1,25 @@
+<div align="center">
+  <img width="100%" src="https://wallpapercave.com/wp/wp9428027.jpg" alt="Cybersecurity Banner">
+</div>
+
 # Hi there, I'm Ahmed Sami 👋
 
-## 🚀 About Me
+## 🛡️ Cybersecurity Student
 
-I'm Ahmed Sami, a Cybersecurity student passionate about technology, networking, and ethical hacking.
+I'm Ahmed Sami, a passionate Cybersecurity student who is constantly learning and improving my technical skills.
 
-Currently, I'm building a strong foundation in:
-
+I am currently focusing on:
 - Cybersecurity Fundamentals
 - Computer Networks
 - Linux
-- Programming
 - Ethical Hacking
+- Programming
 
-I enjoy learning new technologies and improving my technical skills every day.
+My goal is to become a professional Cybersecurity Specialist and contribute to making the digital world safer.
 
 ---
 
-## 💻 Skills
+## 🚀 Skills
 
 ### Programming Languages
 - C++
@@ -27,54 +30,63 @@ I enjoy learning new technologies and improving my technical skills every day.
 - Networking
 - Linux
 - Cybersecurity Fundamentals
-- Python
 - Ethical Hacking
+- Git & GitHub
 
 ---
 
 ## 🎯 Goals
 
-- Become a professional Cybersecurity Specialist
+- Become a Cybersecurity Professional
 - Learn Penetration Testing
 - Master Linux and Networking
-- Build security-related projects
-- Earn cybersecurity certifications
-
----
-
-## 📊 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- Build Security Projects
+- Earn Industry Certifications
+- Contribute to Open Source Projects
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - Linux
-- Git & GitHub
-- Visual Studio Code
-- VirtualBox
 - Windows
+- Git
+- GitHub
+- VirtualBox
+- Visual Studio Code
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Current Learning Journey
 
-- Networking Fundamentals
-- Linux Basics
-- C++ Programming
-- Java Programming
-- HTML & Web Fundamentals
-- Cybersecurity Fundamentals
+✔ C++ Programming
+
+✔ Java Programming
+
+✔ HTML Fundamentals
+
+🔄 Networking Fundamentals
+
+🔄 Linux Fundamentals
+
+🔄 Cybersecurity Fundamentals
+
+🔄 Ethical Hacking
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/YOUR_USERNAME
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Always learning, always improving.
+## 📫 Connect With Me
+
+GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐ Learning Cybersecurity One Step At A Time.
