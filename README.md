@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://wallpapercave.com/wp/wp9428027.jpg" alt="Cybersecurity Banner">
+  <img width="100%" src= https://share.google/7wJ1nDbN5yh7P4ovM alt="Cybersecurity Banner">
 </div>
 
 # Hi there, I'm Ahmed Sami 👋
